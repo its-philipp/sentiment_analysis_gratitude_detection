@@ -35,7 +35,7 @@ X_train_list = list(X["comment"])
 model = load_model('cnn-lstm_model.h5')
 
 # Call the YouTube API
-api_key = 'AIzaSyDA0-qOAgaltH0DhTLa9Y1IdbIHfUlAPm0' # Enter your own API key – this one won't work
+api_key = 'XXX' # Enter your own API key – this one won't work
 
 youtube_api = build('youtube', 'v3', developerKey = api_key)
 
