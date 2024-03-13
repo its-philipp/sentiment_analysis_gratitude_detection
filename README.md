@@ -8,4 +8,4 @@ We used our trained model to analyze the most subscribed and popular YouTube cha
 To build the recommender system we have used the easy to use Streamlit app.
 
 Our results are shown in the presentation:
-[https://docs.google.com/presentation/d/1YEd6GnDBfVxaUFYRHHb1RhW0_04Kra8yZeWrogmbkIw/edit?usp=sharing](https://docs.google.com/presentation/d/1YEd6GnDBfVxaUFYRHHb1RhW0_04Kra8yZeWrogmbkIw/edit?usp=sharing)https://docs.google.com/presentation/d/1YEd6GnDBfVxaUFYRHHb1RhW0_04Kra8yZeWrogmbkIw/edit?usp=sharing
+https://docs.google.com/presentation/d/1YEd6GnDBfVxaUFYRHHb1RhW0_04Kra8yZeWrogmbkIw/edit?usp=sharing
